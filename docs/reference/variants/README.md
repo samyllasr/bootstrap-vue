@@ -83,4 +83,4 @@ components) via the standard HTML `class="..."` attribute.
 When creating custom variants, follow the Bootstrap V4 varian CSS class naming
 scheme and they will become available to the various components that use that
 scheme (i.e. create a custom CSS class `btn-purple` and `purple` becomes a
-vailid variant to use on `<b-button>`).
+valid variant to use on `<b-button>`).
